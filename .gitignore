@@ -1,8 +1,11 @@
-.pio
-.vscode/.browserslistrc
-.vscode/c_cpp_properties.json
-.vscode/launch.json
-.vscode/extensions.json
-.vscode/tasks.json
+.pio/
+.vscode/
 compile_commands.json
 .DS_Store
+.cursor/
+.cache/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
